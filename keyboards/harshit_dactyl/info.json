@@ -17,7 +17,8 @@
         "rows": ["B6", "B4", "B5", "E6","D7"]
     },
     "split": {
-        "soft_serial_pin": "D1",
+        "enabled": true,
+        "soft_serial_pin": "D0",
         "matrix_pins": {
             "right": {
                 "cols": ["B4", "E6", "D7", "C6", "D3"],
@@ -75,9 +76,9 @@
                 
                 { "matrix": [3, 3], "x": 2.5, "y": 3.25 },
                 { "matrix": [3, 4], "x": 3.5, "y": 3.5 },
-                { "matrix": [4, 3], "x": 4.5, "y": 3.75 },
+                { "matrix": [4, 4], "x": 4.5, "y": 3.75 },
                 
-                { "matrix": [9, 3], "x": 6.5, "y": 3.75 },
+                { "matrix": [9, 4], "x": 6.5, "y": 3.75 },
                 
                 { "matrix": [8, 4], "x": 7.5, "y": 3.5 },
                 { "matrix": [8, 3], "x": 8.5, "y": 3.25 }
