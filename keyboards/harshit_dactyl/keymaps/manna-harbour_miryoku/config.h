@@ -9,6 +9,7 @@
 // only required if not setting mouse layer elsewhere
 //#define AUTO_MOUSE_DEFAULT_LAYER 3
 
+#define IGNORE_MOD_TAP_INTERRUPT
 
 #define LAYOUT_miryoku(\
 K00,   K01,   K02,   K03,   K04,          K05,   K06,   K07,   K08,   K09,\
