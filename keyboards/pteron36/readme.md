@@ -33,3 +33,7 @@ Pteron36 uses community layout, hence there is no need for separate keymap folde
 The VIA keymap is working as intended. 
 
     make pteron36:via
+
+# NOTE for 38key usage
+
+This branch is in active development, and will see some changes before being merged into mainline. At the momenet the branch has base work to enable 38key with the specific keymap. The support for 38keys in VIA, and for miryoku is in progress. 
