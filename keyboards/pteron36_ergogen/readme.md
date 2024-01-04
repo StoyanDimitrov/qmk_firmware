@@ -1,5 +1,5 @@
 # pteron36_ergogen
-
+# WORK IN PROGRESS
 ![pteron36_ergogen](imgur.com image replace me!)
 
 *A short description of the keyboard/project*
